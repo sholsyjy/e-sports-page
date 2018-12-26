@@ -10,13 +10,16 @@
     "commit": "git-cz"
   },
   "dependencies": {
+    "animate.css": "^3.7.0",
     "react": "^16.7.0",
+    "react-animate-on-scroll": "^2.1.5",
     "react-dom": "^16.7.0"
   },
   "devDependencies": {
     "@types/jest": "^23.3.10",
     "@types/node": "^10.12.18",
     "@types/react": "^16.7.18",
+    "@types/react-animate-on-scroll": "^2.1.1",
     "@types/react-dom": "^16.0.11",
     "commitizen": "^3.0.5",
     "cz-moe": "^0.0.2",
