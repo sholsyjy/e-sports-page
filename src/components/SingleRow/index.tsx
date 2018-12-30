@@ -1,4 +1,5 @@
 import * as React from "react";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import ScrollAnimation from "react-animate-on-scroll";
 import { Row, Col, Carousel } from "antd";
 import { MyPropType } from "../../types/MyPropType";
@@ -11,7 +12,7 @@ const SingleRow: React.FC<MyPropType> = props => {
       style={{
         backgroundImage: "url(" + data.bgImg + ")",
         backgroundRepeat: "no-repeat",
-        backgroundSize: "100% 100%"
+        backgroundSize: "100%"
       }}
     >
       {!data.nonImg ? (
@@ -30,6 +31,13 @@ const SingleRow: React.FC<MyPropType> = props => {
                   <h1>{data.title}</h1>
                 </a>
                 <span>{data.text}</span>
+                <Link to={"/news-set" + data.index}>
+                  <span>
+                    <br />
+                    <br />
+                    更多>>>
+                  </span>
+                </Link>
               </ScrollAnimation>
             </Col>
           )}
@@ -54,6 +62,13 @@ const SingleRow: React.FC<MyPropType> = props => {
                 <h1>{data.title}</h1>
               </a>
               <span>{data.text}</span>
+              <Link to={"/news-set" + data.index}>
+                <span>
+                  <br />
+                  <br />
+                  更多>>>
+                </span>
+              </Link>
             </Col>
           )}
         </Row>

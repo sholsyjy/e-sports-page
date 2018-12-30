@@ -2,6 +2,7 @@ export type MyPropType =
   | {
       data: {
         nonImg: false;
+        index: number;
         bgImg: string;
         images: string[];
         url: string;
