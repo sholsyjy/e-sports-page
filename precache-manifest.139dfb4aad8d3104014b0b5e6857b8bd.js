@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "9786e9e4c3151f3b2f57",
-    "url": "/e-sports-page/static/css/main.5146ea43.chunk.css"
+    "revision": "bc741eab8eba8056f60b",
+    "url": "/e-sports-page/static/css/main.61a08390.chunk.css"
   },
   {
-    "revision": "9786e9e4c3151f3b2f57",
-    "url": "/e-sports-page/static/js/main.9786e9e4.chunk.js"
+    "revision": "bc741eab8eba8056f60b",
+    "url": "/e-sports-page/static/js/main.bc741eab.chunk.js"
   },
   {
-    "revision": "a8fff351693c36ced2a1",
-    "url": "/e-sports-page/static/css/1.4f4b3d2c.chunk.css"
+    "revision": "6b1b22f1e9588792f522",
+    "url": "/e-sports-page/static/css/1.62c5b3c4.chunk.css"
   },
   {
-    "revision": "a8fff351693c36ced2a1",
-    "url": "/e-sports-page/static/js/1.a8fff351.chunk.js"
+    "revision": "6b1b22f1e9588792f522",
+    "url": "/e-sports-page/static/js/1.6b1b22f1.chunk.js"
   },
   {
     "revision": "d570819c5d71b171799b",
@@ -22,6 +22,34 @@ self.__precacheManifest = [
   {
     "revision": "e349a04c658e2ad87e59e388e4be9645",
     "url": "/e-sports-page/static/media/bg-1.e349a04c.jpg"
+  },
+  {
+    "revision": "10a85cd5369fb046745ea76ed003e421",
+    "url": "/e-sports-page/static/media/bg-2.10a85cd5.jpg"
+  },
+  {
+    "revision": "aa4fff67a994b63508139f656d764bcf",
+    "url": "/e-sports-page/static/media/bg-3.aa4fff67.png"
+  },
+  {
+    "revision": "0c2bcc3fc8ae655e4c79ab8eba59b2d9",
+    "url": "/e-sports-page/static/media/bg-4.0c2bcc3f.jpg"
+  },
+  {
+    "revision": "4f6b5a9f46c10102fada707a3231c1f2",
+    "url": "/e-sports-page/static/media/bg-5.4f6b5a9f.jpg"
+  },
+  {
+    "revision": "085008856892e07cebcfa56b21581fa5",
+    "url": "/e-sports-page/static/media/bg-6.08500885.jpg"
+  },
+  {
+    "revision": "5792cb41d33e8adfc81573b234aec7fc",
+    "url": "/e-sports-page/static/media/bg-7.5792cb41.jpg"
+  },
+  {
+    "revision": "2cff490bb65002a25f2581824c1b39c7",
+    "url": "/e-sports-page/static/media/bg-8.2cff490b.jpg"
   },
   {
     "revision": "265c82fda88de00c8303bb5fd9f159b0",
@@ -40,8 +68,8 @@ self.__precacheManifest = [
     "url": "/e-sports-page/static/media/4.ca868898.jpg"
   },
   {
-    "revision": "c4ff4ec096d65c38334ec57ab31efa0a",
-    "url": "/e-sports-page/static/media/1.c4ff4ec0.jpg"
+    "revision": "2c1a5a594f439f3c76f074520d2a3cc6",
+    "url": "/e-sports-page/static/media/1.2c1a5a59.jpg"
   },
   {
     "revision": "f8bcb37928fe251ae126902376935bb3",
@@ -104,7 +132,7 @@ self.__precacheManifest = [
     "url": "/e-sports-page/static/media/4.8319b4d5.jpeg"
   },
   {
-    "revision": "b0f0e597b42d23323accf3f04f30eb3e",
+    "revision": "c8ec743e8506b36d719de7d97b3e6dd3",
     "url": "/e-sports-page/index.html"
   }
 ];
