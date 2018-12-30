@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/e-sports-page/precache-manifest.776e4ba52f189374e46ca5f52f35e661.js"
+  "https://sholsyjy.github.io/e-sports-page/precache-manifest.c3e0d3ff423ce64b1f9f1a1c74c0a247.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/e-sports-page/index.html", {
+workbox.routing.registerNavigationRoute("https://sholsyjy.github.io/e-sports-page/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
