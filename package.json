@@ -11,9 +11,10 @@
   },
   "dependencies": {
     "animate.css": "^3.7.0",
-    "react": "^16.7.0",
+    "antd": "^3.11.6",
+    "react": "^16.7.0-alpha.2",
     "react-animate-on-scroll": "^2.1.5",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0-alpha.2"
   },
   "devDependencies": {
     "@types/jest": "^23.3.10",
