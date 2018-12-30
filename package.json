@@ -24,6 +24,7 @@
     "@types/react-dom": "^16.0.11",
     "commitizen": "^3.0.5",
     "cz-moe": "^0.0.2",
+    "node-sass": "^4.11.0",
     "react-scripts": "2.1.2",
     "typescript": "^3.2.2"
   }
