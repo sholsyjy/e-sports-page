@@ -1,10 +1,10 @@
 {
   "main.css": "https://sholsyjy.github.io/e-sports-page/static/css/main.05fc79a2.chunk.css",
-  "main.js": "https://sholsyjy.github.io/e-sports-page/static/js/main.f69e3f12.chunk.js",
-  "main.js.map": "https://sholsyjy.github.io/e-sports-page/static/js/main.f69e3f12.chunk.js.map",
+  "main.js": "https://sholsyjy.github.io/e-sports-page/static/js/main.296e55d4.chunk.js",
+  "main.js.map": "https://sholsyjy.github.io/e-sports-page/static/js/main.296e55d4.chunk.js.map",
   "static/css/1.9eaf1a89.chunk.css": "https://sholsyjy.github.io/e-sports-page/static/css/1.9eaf1a89.chunk.css",
-  "static/js/1.0971dede.chunk.js": "https://sholsyjy.github.io/e-sports-page/static/js/1.0971dede.chunk.js",
-  "static/js/1.0971dede.chunk.js.map": "https://sholsyjy.github.io/e-sports-page/static/js/1.0971dede.chunk.js.map",
+  "static/js/1.67682976.chunk.js": "https://sholsyjy.github.io/e-sports-page/static/js/1.67682976.chunk.js",
+  "static/js/1.67682976.chunk.js.map": "https://sholsyjy.github.io/e-sports-page/static/js/1.67682976.chunk.js.map",
   "runtime~main.js": "https://sholsyjy.github.io/e-sports-page/static/js/runtime~main.2e2da12b.js",
   "runtime~main.js.map": "https://sholsyjy.github.io/e-sports-page/static/js/runtime~main.2e2da12b.js.map",
   "static/media/bg-1.jpg": "https://sholsyjy.github.io/e-sports-page/static/media/bg-1.e349a04c.jpg",
@@ -25,6 +25,6 @@
   "static/css/main.05fc79a2.chunk.css.map": "https://sholsyjy.github.io/e-sports-page/static/css/main.05fc79a2.chunk.css.map",
   "static/css/1.9eaf1a89.chunk.css.map": "https://sholsyjy.github.io/e-sports-page/static/css/1.9eaf1a89.chunk.css.map",
   "index.html": "https://sholsyjy.github.io/e-sports-page/index.html",
-  "precache-manifest.c3e0d3ff423ce64b1f9f1a1c74c0a247.js": "https://sholsyjy.github.io/e-sports-page/precache-manifest.c3e0d3ff423ce64b1f9f1a1c74c0a247.js",
+  "precache-manifest.70a5b1296deaafe85a4133475d1a0904.js": "https://sholsyjy.github.io/e-sports-page/precache-manifest.70a5b1296deaafe85a4133475d1a0904.js",
   "service-worker.js": "https://sholsyjy.github.io/e-sports-page/service-worker.js"
 }
