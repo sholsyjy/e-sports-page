@@ -7,7 +7,13 @@ const SingleRow: React.FC<MyPropType> = props => {
   const { data } = props;
 
   return (
-    <div style={{ backgroundImage: "url(" + data.bgImg + ")" }}>
+    <div
+      style={{
+        backgroundImage: "url(" + data.bgImg + ")",
+        backgroundRepeat: "no-repeat",
+        backgroundSize: "100% 100%"
+      }}
+    >
       {!data.nonImg ? (
         <Row
           style={{

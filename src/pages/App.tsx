@@ -1,8 +1,18 @@
 import * as React from "react";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+
 import styles from "./App.module.scss";
 import "animate.css";
 import logo from "../images/lol-logo.png";
 import bgImg1 from "../images/bg-1.jpg";
+import bgImg2 from "../images/bg-2.jpg";
+import bgImg3 from "../images/bg-3.png";
+import bgImg4 from "../images/bg-4.jpg";
+import bgImg5 from "../images/bg-5.jpg";
+import bgImg6 from "../images/bg-6.jpg";
+import bgImg7 from "../images/bg-7.jpg";
+import bgImg8 from "../images/bg-8.jpg";
+import bgImg9 from "../images/bg-9.jpg";
 import chunjisai1 from "../images/chunjisai/1.jpg";
 import chunjisai2 from "../images/chunjisai/2.jpg";
 import chunjisai3 from "../images/chunjisai/3.jpg";
@@ -38,20 +48,20 @@ const App = () => {
     },
     {
       nonImg: true,
-      bgImg: bgImg1,
+      bgImg: bgImg2,
       time: "2017",
       text:
         "英雄联盟全球总决赛第一次全程在中国举办，引起了国内的巨大关注，但中国战队未能晋级总决赛成为了无数观众的遗憾。"
     },
     {
       nonImg: true,
-      bgImg: bgImg1,
+      bgImg: bgImg3,
       time: "2018",
       text: "中国英雄联盟电竞史上的巅峰一年——"
     },
     {
       nonImg: false,
-      bgImg: bgImg1,
+      bgImg: bgImg4,
       images: [chunjisai1, chunjisai2, chunjisai3, chunjisai4],
       url: "http://lol.qq.com/news/detail.shtml?docid=8051760618167153341",
       time: "2018年1月",
@@ -61,7 +71,7 @@ const App = () => {
     },
     {
       nonImg: false,
-      bgImg: bgImg1,
+      bgImg: bgImg5,
       images: [jizhongsai1, jizhongsai2, jizhongsai3, jizhongsai4],
       url: "http://lol.qq.com/news/detail.shtml?docid=13253526962773288039",
       time: "2018年5月",
@@ -71,7 +81,7 @@ const App = () => {
     },
     {
       nonImg: false,
-      bgImg: bgImg1,
+      bgImg: bgImg6,
       images: [zhoujisai1, zhoujisai2, zhoujisai3, zhoujisai4],
       url: "http://lol.qq.com/news/detail.shtml?docid=74730627019948",
       time: "2018年7月",
@@ -81,7 +91,7 @@ const App = () => {
     },
     {
       nonImg: false,
-      bgImg: bgImg1,
+      bgImg: bgImg7,
       images: [yayunhui1, yayunhui2, yayunhui3, yayunhui4],
       url: "http://lol.qq.com/news/detail.shtml?docid=3369738788303843962",
       time: "2018年8月",
@@ -91,7 +101,7 @@ const App = () => {
     },
     {
       nonImg: false,
-      bgImg: bgImg1,
+      bgImg: bgImg8,
       images: [zongjuesai1, zongjuesai2, zongjuesai3, zongjuesai4],
       url: "http://game.people.com.cn/n1/2018/1103/c40130-30380262.html",
       time: "2018年11月",
