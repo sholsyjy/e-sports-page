@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0656f11c66a18cccbd40",
+    "revision": "09a90f4e3965b2b93314",
     "url": "/e-sports-page/static/css/main.05fc79a2.chunk.css"
   },
   {
-    "revision": "0656f11c66a18cccbd40",
-    "url": "/e-sports-page/static/js/main.0656f11c.chunk.js"
+    "revision": "09a90f4e3965b2b93314",
+    "url": "/e-sports-page/static/js/main.09a90f4e.chunk.js"
   },
   {
     "revision": "6768297654c42dff593f",
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "/e-sports-page/static/media/bg-5.1d4d0556.jpg"
   },
   {
-    "revision": "b1dda33a2f91114328852d8ec3cf780d",
+    "revision": "c240da2b69cc78f3ce2c8b360649391d",
     "url": "/e-sports-page/index.html"
   }
 ];

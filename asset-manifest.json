@@ -1,7 +1,7 @@
 {
   "main.css": "/e-sports-page/static/css/main.05fc79a2.chunk.css",
-  "main.js": "/e-sports-page/static/js/main.0656f11c.chunk.js",
-  "main.js.map": "/e-sports-page/static/js/main.0656f11c.chunk.js.map",
+  "main.js": "/e-sports-page/static/js/main.09a90f4e.chunk.js",
+  "main.js.map": "/e-sports-page/static/js/main.09a90f4e.chunk.js.map",
   "static/css/1.9eaf1a89.chunk.css": "/e-sports-page/static/css/1.9eaf1a89.chunk.css",
   "static/js/1.67682976.chunk.js": "/e-sports-page/static/js/1.67682976.chunk.js",
   "static/js/1.67682976.chunk.js.map": "/e-sports-page/static/js/1.67682976.chunk.js.map",
@@ -25,6 +25,6 @@
   "static/css/main.05fc79a2.chunk.css.map": "/e-sports-page/static/css/main.05fc79a2.chunk.css.map",
   "static/css/1.9eaf1a89.chunk.css.map": "/e-sports-page/static/css/1.9eaf1a89.chunk.css.map",
   "index.html": "/e-sports-page/index.html",
-  "precache-manifest.0d91ad91e19fc396af927cfc45641fec.js": "/e-sports-page/precache-manifest.0d91ad91e19fc396af927cfc45641fec.js",
+  "precache-manifest.776e4ba52f189374e46ca5f52f35e661.js": "/e-sports-page/precache-manifest.776e4ba52f189374e46ca5f52f35e661.js",
   "service-worker.js": "/e-sports-page/service-worker.js"
 }

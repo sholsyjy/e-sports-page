@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/e-sports-page/precache-manifest.0d91ad91e19fc396af927cfc45641fec.js"
+  "/e-sports-page/precache-manifest.776e4ba52f189374e46ca5f52f35e661.js"
 );
 
 workbox.clientsClaim();
