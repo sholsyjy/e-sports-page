@@ -1,22 +1,20 @@
 import * as React from "react";
-import "./App.css";
-import { Component } from "react";
-import logo from "./logo.svg";
-import ScrollAnimation from "react-animate-on-scroll";
-import "animate.css";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import HomePage from "./HomePage/HomePage";
+import NewsSet from "./NewsSet/NewsSet";
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <ScrollAnimation animateIn="heartBeat" animateOut="fadeout">
-            <h1>hello world</h1>
-          </ScrollAnimation>
-        </header>
-      </div>
-    );
-  }
-}
+const App: React.FC = () => {
+  return (
+    <div>
+      <Router>
+        <Route exact path="/" component={HomePage} />
+        <Route
+          path="/news-set:set"
+          render={props => <NewsSet setIndex={props.match.params.set} />}
+        />
+      </Router>
+    </div>
+  );
+};
 
 export default App;

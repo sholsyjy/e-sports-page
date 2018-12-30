@@ -1,0 +1,37 @@
+@import '../../styles/function.scss';
+
+.HomePage {
+  min-height: 100vh;
+  background-color: #03263a;
+  text-align: center;
+  h1 {
+    color: #ffffff;
+    font-size: dim(40);
+  }
+  h2 {
+    color: #ffffff;
+    font-size: dim(100);
+  }
+  p,
+  span {
+    color: #ffffff;
+    font-size: dim(20);
+    text-align: initial;
+  }
+  :global(.ant-row) {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 0 dim(50);
+  }
+  :global(.ant-col-12) {
+    padding: 0 5%;
+  }
+  :global(.ant-col-24) {
+    padding: 0 5%;
+  }
+  a:hover {
+    text-decoration-line: underline;
+    text-decoration-color: #ffffff;
+  }
+}
