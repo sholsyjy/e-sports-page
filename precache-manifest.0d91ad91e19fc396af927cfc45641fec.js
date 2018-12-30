@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "bc741eab8eba8056f60b",
-    "url": "/e-sports-page/static/css/main.61a08390.chunk.css"
+    "revision": "0656f11c66a18cccbd40",
+    "url": "/e-sports-page/static/css/main.05fc79a2.chunk.css"
   },
   {
-    "revision": "bc741eab8eba8056f60b",
-    "url": "/e-sports-page/static/js/main.bc741eab.chunk.js"
+    "revision": "0656f11c66a18cccbd40",
+    "url": "/e-sports-page/static/js/main.0656f11c.chunk.js"
   },
   {
-    "revision": "6b1b22f1e9588792f522",
-    "url": "/e-sports-page/static/css/1.62c5b3c4.chunk.css"
+    "revision": "6768297654c42dff593f",
+    "url": "/e-sports-page/static/css/1.9eaf1a89.chunk.css"
   },
   {
-    "revision": "6b1b22f1e9588792f522",
-    "url": "/e-sports-page/static/js/1.6b1b22f1.chunk.js"
+    "revision": "6768297654c42dff593f",
+    "url": "/e-sports-page/static/js/1.67682976.chunk.js"
   },
   {
     "revision": "d570819c5d71b171799b",
@@ -36,10 +36,6 @@ self.__precacheManifest = [
     "url": "/e-sports-page/static/media/bg-4.0c2bcc3f.jpg"
   },
   {
-    "revision": "4f6b5a9f46c10102fada707a3231c1f2",
-    "url": "/e-sports-page/static/media/bg-5.4f6b5a9f.jpg"
-  },
-  {
     "revision": "085008856892e07cebcfa56b21581fa5",
     "url": "/e-sports-page/static/media/bg-6.08500885.jpg"
   },
@@ -50,6 +46,10 @@ self.__precacheManifest = [
   {
     "revision": "2cff490bb65002a25f2581824c1b39c7",
     "url": "/e-sports-page/static/media/bg-8.2cff490b.jpg"
+  },
+  {
+    "revision": "2a3e1b725503f67ce02f4b6e39c7815c",
+    "url": "/e-sports-page/static/media/bg-9.2a3e1b72.jpg"
   },
   {
     "revision": "265c82fda88de00c8303bb5fd9f159b0",
@@ -132,7 +132,11 @@ self.__precacheManifest = [
     "url": "/e-sports-page/static/media/4.8319b4d5.jpeg"
   },
   {
-    "revision": "c8ec743e8506b36d719de7d97b3e6dd3",
+    "revision": "1d4d0556e8717b0d8ba108709366a52a",
+    "url": "/e-sports-page/static/media/bg-5.1d4d0556.jpg"
+  },
+  {
+    "revision": "b1dda33a2f91114328852d8ec3cf780d",
     "url": "/e-sports-page/index.html"
   }
 ];
