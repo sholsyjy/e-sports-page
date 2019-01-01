@@ -6,7 +6,7 @@ import NewsSet from "./NewsSet/NewsSet";
 const App: React.FC = () => {
   return (
     <div>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Route exact path="/" component={HomePage} />
         <Route
           path="/news-set:set"

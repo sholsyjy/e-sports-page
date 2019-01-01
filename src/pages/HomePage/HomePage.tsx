@@ -2,12 +2,10 @@ import * as React from "react";
 
 import styles from "./HomePage.module.scss";
 import "animate.css";
-import logo from "../../images/lol-logo.png";
 import bgImg1 from "../../images/bg-1.jpg";
 import bgImg2 from "../../images/bg-2.jpg";
 import bgImg3 from "../../images/bg-3.png";
 import bgImg4 from "../../images/bg-4.jpg";
-import bgImg5 from "../../images/bg-5.jpg";
 import bgImg6 from "../../images/bg-6.jpg";
 import bgImg7 from "../../images/bg-7.jpg";
 import bgImg8 from "../../images/bg-8.jpg";
