@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "296e55d44e045090da67",
-    "url": "https://sholsyjy.github.io/e-sports-page/static/css/main.05fc79a2.chunk.css"
+    "revision": "e68a6c9239f113a5d151",
+    "url": "https://sholsyjy.github.io/e-sports-page/static/css/main.e6e7c346.chunk.css"
   },
   {
-    "revision": "296e55d44e045090da67",
-    "url": "https://sholsyjy.github.io/e-sports-page/static/js/main.296e55d4.chunk.js"
+    "revision": "e68a6c9239f113a5d151",
+    "url": "https://sholsyjy.github.io/e-sports-page/static/js/main.e68a6c92.chunk.js"
   },
   {
-    "revision": "6768297654c42dff593f",
-    "url": "https://sholsyjy.github.io/e-sports-page/static/css/1.9eaf1a89.chunk.css"
+    "revision": "eb9e5c9341d0554d2bc7",
+    "url": "https://sholsyjy.github.io/e-sports-page/static/css/1.410b54a9.chunk.css"
   },
   {
-    "revision": "6768297654c42dff593f",
-    "url": "https://sholsyjy.github.io/e-sports-page/static/js/1.67682976.chunk.js"
+    "revision": "eb9e5c9341d0554d2bc7",
+    "url": "https://sholsyjy.github.io/e-sports-page/static/js/1.eb9e5c93.chunk.js"
   },
   {
     "revision": "2e2da12bad7375cf0f89",
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "https://sholsyjy.github.io/e-sports-page/static/media/bg-5.1d4d0556.jpg"
   },
   {
-    "revision": "ddd3d72b3ddce827e5ff482eedc1dd55",
+    "revision": "a8589cd60f500ed6b0358f4c1d1ffabd",
     "url": "https://sholsyjy.github.io/e-sports-page/index.html"
   }
 ];
