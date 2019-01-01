@@ -1,5 +1,5 @@
 import * as React from "react";
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import ScrollAnimation from "react-animate-on-scroll";
 import { Row, Col, Carousel } from "antd";
 import { MyPropType } from "../../types/MyPropType";
